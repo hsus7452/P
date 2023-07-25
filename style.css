@@ -1,0 +1,22 @@
+.dropdown {
+    align-items: center;
+    display: inline-block;
+}
+body {
+    background-color: black;
+}
+.text {
+    background-color: blueviolet;
+    border: 20cm;
+    margin-left: 1cm;
+    margin-right: 10cm;
+    border-color: rgb(40, 40, 255);
+    margin-block-end: 6cm;
+    margin-block-start: 2cm;
+}
+h1  {
+    color: white;
+}
+p  {
+    color: white;
+}
